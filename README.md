@@ -46,11 +46,11 @@ Contains static assets used by the application.
 #### Installation
 1. Clone the repository:
 ```sh
-git clone <repository-url>
+git clone https://github.com/An4s0/express-structure.git
 ```
 2. Navigate to the project directory:
 ```sh
-cd <project-directory>
+cd express-structure
 ```
 3. Install dependencies:
 ```sh
