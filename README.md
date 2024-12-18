@@ -67,6 +67,3 @@ npm start
 * app.config.js: Update application settings as needed.
 * db.config.js: Update database connection settings as needed.
 
-#### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
